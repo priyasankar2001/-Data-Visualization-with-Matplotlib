@@ -39,7 +39,7 @@
 
 ## 📊 3. Bar Charts
 
-![Bar Charts](assets/03_bar_charts.png)
+![Bar Charts](https://github.com/priyasankar2001/-Data-Visualization-with-Matplotlib/blob/main/01_line_plot.png)
 
 ---
 

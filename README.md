@@ -27,56 +27,56 @@
 
 ## 📈 1. Line Plot
 
-![Line Plot](assets/01_line_plot.png)
+![Line Plot](https://github.com/priyasankar2001/-Data-Visualization-with-Matplotlib/blob/main/01_line_plot.png)
 
 ---
 
 ## 🔲 2. Subplots
 
-![Subplots](assets/02_subplots.png)
+![Subplots](https://github.com/priyasankar2001/-Data-Visualization-with-Matplotlib/blob/main/02_subplots.png)
 
 ---
 
 ## 📊 3. Bar Charts
 
-![Bar Charts](https://github.com/priyasankar2001/-Data-Visualization-with-Matplotlib/blob/main/01_line_plot.png)
+![Bar Charts](https://github.com/priyasankar2001/-Data-Visualization-with-Matplotlib/blob/main/03_bar_charts.png)
 
 ---
 
 ## 📉 4. Histogram
 
-![Histogram](assets/04_histogram.png)
+![Histogram](https://github.com/priyasankar2001/-Data-Visualization-with-Matplotlib/blob/main/04_histogram.png)
 
 ---
 
 ## 🥧 5. Pie Chart
 
-![Pie Chart](assets/05_pie_chart.png)
+![Pie Chart](https://github.com/priyasankar2001/-Data-Visualization-with-Matplotlib/blob/main/05_pie_chart.png)
 
 ---
 
 ## 🔵 6. Scatter Plot
 
-![Scatter Plot](assets/06_scatter_plot.png)
+![Scatter Plot](https://github.com/priyasankar2001/-Data-Visualization-with-Matplotlib/blob/main/06_scatter_plot.png)
 
 ---
 
 ## 📦 7. Box Plot
 
-![Box Plot](assets/07_box_plot.png)
+![Box Plot](https://github.com/priyasankar2001/-Data-Visualization-with-Matplotlib/blob/main/07_box_plot.png)
 
 ---
 
 ## 🍽️ 8. Real-World Analysis – Restaurant Dataset
 
 ### Country Distribution
-![Country Pie](assets/08_country_pie.png)
+![Country Pie](https://github.com/priyasankar2001/-Data-Visualization-with-Matplotlib/blob/main/08_country_pie.png)
 
 ### City Distribution
-![City Pie](assets/09_city_pie.png)
+![City Pie](https://github.com/priyasankar2001/-Data-Visualization-with-Matplotlib/blob/main/09_city_pie.png)
 
 ### Top 10 Cuisines
-![Cuisines Bar](assets/10_cuisines_bar.png)
+![Cuisines Bar](https://github.com/priyasankar2001/-Data-Visualization-with-Matplotlib/blob/main/10_cuisines_bar.png)
 
 ---
 
